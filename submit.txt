@@ -1,5 +1,5 @@
 pudding.txt
 vi danger.txt
 donuts
-abcnews.go.com
+go.com
 artichoke.jpg
